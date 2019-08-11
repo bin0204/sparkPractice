@@ -1,0 +1,10 @@
+a1,elementary,20,40,50
+a2,elementary,30,100,50
+a3,high,30,90,50
+a4,middle,30,40,50
+a5,high,30,40,50
+a6,elementary,30,40,50
+a7,middle,30,20,50
+a8,high,30,40,50
+a9,middle,30,40,50
+a10,elementary,30,40,30
